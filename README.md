@@ -1,4 +1,5 @@
 # Docker
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)
 
 ## Problem Statement
 Make a dockerfile which is having latest CentOS distribution of linux, Apache server with PHP installed and also ImageMagick software installed.
@@ -7,4 +8,3 @@ Make a dockerfile which is having latest CentOS distribution of linux, Apache se
 
 ![image (2)](https://user-images.githubusercontent.com/67871362/179025357-3e888d71-979c-4bd2-b5cd-400befc174da.png)
 
-![image (3)](https://img.shields.io/docker/pulls/mashape/kong.svg)
